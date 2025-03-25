@@ -205,5 +205,9 @@ while True:
 - Model saves automatically after training.
 - Run the script in Google Colab or a local Python environment.
 
+
+##💹Screenshots
+<img width="869" alt="image" src="https://github.com/user-attachments/assets/3a9783ba-5ed9-493c-a6ab-f79181ee3608" />
+
 ✅ **Now you are ready to classify AI vs Human text!**
 
